@@ -849,7 +849,7 @@ body {
 
 @media (max-width: 576px) {
   .team-carousel-wrapper {
-    padding: 0 35px;
+    padding: 0 30px;
   }
   
   .team-carousel-control {
@@ -862,7 +862,7 @@ body {
   }
   
   .team-card {
-    width: 420px;
+    max-width: 420px;
   }
   
   .team-image-container {
