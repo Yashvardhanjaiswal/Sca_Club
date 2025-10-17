@@ -849,7 +849,7 @@ body {
 
 @media (max-width: 576px) {
   .team-carousel-wrapper {
-    padding: 0 30px;
+    padding: 0 20px;
   }
   
   .team-carousel-control {
