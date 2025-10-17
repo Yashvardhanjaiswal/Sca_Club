@@ -53,7 +53,7 @@ const HigherAuthorities = () => {
     },
     {
       id: 4,
-      name: "Dr. Anand KumarShukla ",
+      name: "Dr. Anand Kumar Shukla ",
       role: "HOS, School of Computer Applications",
       image: scaHos,
       bio: "Leading the School of Computer Applications with a vision for technological innovation and industry-academia collaboration. Committed to producing industry-ready professionals.",
